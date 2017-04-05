@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer.base;
+package com.ghizzoniandrea.photoviewer.base;
 
 import android.os.Bundle;
 import android.support.annotation.IdRes;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public abstract class BaseFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer;
+package com.ghizzoniandrea.photoviewer;
 
 import android.app.WallpaperManager;
 import android.content.Context;
@@ -11,10 +11,10 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.clownjee.photoviewer.base.BaseActivity;
-import com.clownjee.photoviewer.utils.RxImage;
-import com.clownjee.photoviewer.utils.ShareUtils;
-import com.clownjee.photoviewer.utils.ToastUtil;
+import com.ghizzoniandrea.photoviewer.base.BaseActivity;
+import com.ghizzoniandrea.photoviewer.utils.RxImage;
+import com.ghizzoniandrea.photoviewer.utils.ShareUtils;
+import com.ghizzoniandrea.photoviewer.utils.ToastUtil;
 
 import java.io.IOException;
 import java.io.Serializable;
@@ -25,7 +25,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class PictureActivity extends BaseActivity {
 

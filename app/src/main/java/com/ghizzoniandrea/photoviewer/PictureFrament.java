@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer;
+package com.ghizzoniandrea.photoviewer;
 
 import android.widget.ImageView;
 
@@ -6,10 +6,10 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.Priority;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.target.Target;
-import com.clownjee.photoviewer.base.BaseFragment;
+import com.ghizzoniandrea.photoviewer.base.BaseFragment;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class PictureFrament extends BaseFragment {
 

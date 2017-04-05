@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer;
+package com.ghizzoniandrea.photoviewer;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class MeiziAdapter extends RecyclerView.Adapter<MeiziAdapter.MeiziViewHolder> {
 

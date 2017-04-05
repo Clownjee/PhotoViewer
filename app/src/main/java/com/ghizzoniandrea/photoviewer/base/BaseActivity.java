@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer.base;
+package com.ghizzoniandrea.photoviewer.base;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
@@ -10,10 +10,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.clownjee.photoviewer.R;
+import com.ghizzoniandrea.photoviewer.R;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public abstract class BaseActivity extends AppCompatActivity {
 

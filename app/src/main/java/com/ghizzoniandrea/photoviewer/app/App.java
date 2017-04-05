@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer.app;
+package com.ghizzoniandrea.photoviewer.app;
 
 import android.app.Application;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.content.Context;
 import cat.ereza.customactivityoncrash.CustomActivityOnCrash;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class App extends Application {
 

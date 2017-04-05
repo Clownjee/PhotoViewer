@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer;
+package com.ghizzoniandrea.photoviewer;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class PicFragmentAdapter extends FragmentPagerAdapter {
 

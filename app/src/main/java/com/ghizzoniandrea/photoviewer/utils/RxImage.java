@@ -1,4 +1,4 @@
-package com.clownjee.photoviewer.utils;
+package com.ghizzoniandrea.photoviewer.utils;
 
 import android.Manifest;
 import android.app.Activity;
@@ -29,7 +29,7 @@ import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class RxImage {
 

@@ -1,11 +1,11 @@
-package com.clownjee.photoviewer.utils;
+package com.ghizzoniandrea.photoviewer.utils;
 
 import android.widget.Toast;
 
-import com.clownjee.photoviewer.app.App;
+import com.ghizzoniandrea.photoviewer.app.App;
 
 /**
- * Created by Clownjee on 2017/3/15.
+ * Created by ghizzoniandrea on 2017/3/15.
  */
 public class ToastUtil {
 

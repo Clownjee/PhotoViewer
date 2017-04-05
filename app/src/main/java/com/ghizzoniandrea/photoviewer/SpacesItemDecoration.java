@@ -1,11 +1,11 @@
-package com.clownjee.photoviewer;
+package com.ghizzoniandrea.photoviewer;
 
 import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
- * Created by Clownjee on 2017/3/16.
+ * Created by ghizzoniandrea on 2017/3/16.
  */
 public class SpacesItemDecoration extends RecyclerView.ItemDecoration {
 
